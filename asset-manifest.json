@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/React-Theme2/static/css/main.f159611b.chunk.css",
+    "main.js": "/React-Theme2/static/js/main.3701dba3.chunk.js",
+    "main.js.map": "/React-Theme2/static/js/main.3701dba3.chunk.js.map",
+    "runtime-main.js": "/React-Theme2/static/js/runtime-main.1ebc06c3.js",
+    "runtime-main.js.map": "/React-Theme2/static/js/runtime-main.1ebc06c3.js.map",
+    "static/js/2.8e376bda.chunk.js": "/React-Theme2/static/js/2.8e376bda.chunk.js",
+    "static/js/2.8e376bda.chunk.js.map": "/React-Theme2/static/js/2.8e376bda.chunk.js.map",
+    "index.html": "/React-Theme2/index.html",
+    "precache-manifest.d9806561827adaa6f25d223edeaa910b.js": "/React-Theme2/precache-manifest.d9806561827adaa6f25d223edeaa910b.js",
+    "service-worker.js": "/React-Theme2/service-worker.js",
+    "static/css/main.f159611b.chunk.css.map": "/React-Theme2/static/css/main.f159611b.chunk.css.map",
+    "static/js/2.8e376bda.chunk.js.LICENSE.txt": "/React-Theme2/static/js/2.8e376bda.chunk.js.LICENSE.txt",
+    "static/media/about-guitar.png": "/React-Theme2/static/media/about-guitar.8ae59f92.png",
+    "static/media/about-monitors.png": "/React-Theme2/static/media/about-monitors.23ef8835.png",
+    "static/media/about-waves.png": "/React-Theme2/static/media/about-waves.8db26476.png",
+    "static/media/artist1.jpg": "/React-Theme2/static/media/artist1.7b119b96.jpg",
+    "static/media/artist2.jpg": "/React-Theme2/static/media/artist2.86ffc8fb.jpg",
+    "static/media/artist3.jpg": "/React-Theme2/static/media/artist3.96f479b4.jpg",
+    "static/media/artist4.jpg": "/React-Theme2/static/media/artist4.6b37d29d.jpg",
+    "static/media/app.css": "/React-Theme2/static/media/footer-bg2.ffa2efc1.jpg",
+    "static/media/gallery_01.jpg": "/React-Theme2/static/media/gallery_01.70d69393.jpg",
+    "static/media/gallery_02.jpg": "/React-Theme2/static/media/gallery_02.cc4d2632.jpg",
+    "static/media/gallery_03.jpg": "/React-Theme2/static/media/gallery_03.f8cfe71b.jpg",
+    "static/media/gallery_04.jpg": "/React-Theme2/static/media/gallery_04.60b2f719.jpg",
+    "static/media/gallery_05.jpg": "/React-Theme2/static/media/gallery_05.2b7dde49.jpg",
+    "static/media/gallery_06.jpg": "/React-Theme2/static/media/gallery_06.ef713025.jpg",
+    "static/media/gallery_07.jpg": "/React-Theme2/static/media/gallery_07.7f33668c.jpg",
+    "static/media/gallery_08.jpg": "/React-Theme2/static/media/gallery_08.9338c506.jpg",
+    "static/media/gallery_09.jpg": "/React-Theme2/static/media/gallery_09.7e6c7855.jpg",
+    "static/media/gallery_10.jpg": "/React-Theme2/static/media/gallery_10.0fb12d4f.jpg",
+    "static/media/gallery_11.jpg": "/React-Theme2/static/media/gallery_11.b9a085d0.jpg",
+    "static/media/serv_01-750x525.jpg": "/React-Theme2/static/media/serv_01-750x525.2e32d5a1.jpg",
+    "static/media/serv_02-750x525.jpg": "/React-Theme2/static/media/serv_02-750x525.433a3aa5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ebc06c3.js",
+    "static/js/2.8e376bda.chunk.js",
+    "static/css/main.f159611b.chunk.css",
+    "static/js/main.3701dba3.chunk.js"
+  ]
+}
